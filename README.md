@@ -5,9 +5,22 @@ This application based on real state, where admin can manage own society, blocks
 2. Permission- Create, List, Edit
 3. User - Create, List, Edit, Delete
 4. Manage Society - Create, List, Edit, Delete, Assign Society to broker (Agent) 
-
+5. Manage Society Blocks - Create, List, Edit, Delete
+6. Manage Society Blocks Plots - Create, list, Edit, Delete
+   -> Plot List : Create numbers of plots inside the Blocks
+   -> Change the plots status Booked/Non-Booked
+   -> Assign Plots to customer
+   -> Manage EMI`s of Plots EMI 
 
 ### Admin Task
+1. User - Create, List, Edit, Delete
+2. Manage Society - Create, List, Edit, Delete, Assign Society to broker (Agent) 
+3. Manage Society Blocks - Create, List, Edit, Delete
+4. Manage Society Blocks Plots - Create, list, Edit, Delete
+   -> Plot List : Create numbers of plots inside the Blocks
+   -> Change the plots status Booked/Non-Booked
+   -> Assign Plots to customer
+   -> Manage EMI`s of Plots EMI 
 
 ## Used Packages: 
 
